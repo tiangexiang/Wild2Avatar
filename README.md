@@ -4,12 +4,14 @@ Paper: https://arxiv.org/pdf/2401.00431.pdf
 
 ![framework](./teaser.png)
 
+**UNDER ACTIVE CONSTRUCTION :construction:**
+
 ## Dataset
 We sampled **6 sequences** from the origianl [OcMotion](https://github.com/boycehbz/CHOMP) dataset to be used in our experiments. Each sequence has 100 frames with precomputed segmentation masks and ground truth SMPL parameters.  
 The pre-proccesed sequences can be found [here](https://drive.google.com/drive/folders/1w9FzyKOhxQdhr_nmANRfRkXNdt9_M6BC?usp=sharing). Please follow the dataloader provided in [OccNeRF](https://github.com/tiangexiang/OccNeRF) to load the downloaded sequences.  
 If you find the preprocessed sequences usefull, please consider to cite [CHOMP](https://arxiv.org/pdf/2207.05375).  
 
-**TO BE UPDATED**
+
 
 ## Citation  
 
